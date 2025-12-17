@@ -47,19 +47,19 @@ export default function LandingPage() {
           tag="Fine Dining Experience"
           mediaItems={[
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34yEatLQt6B9A82mZgfqKsKaLO9/uploaded-1765962042904-sfbm6x13.jpg",
+              imageSrc: "https:https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34yEatLQt6B9A82mZgfqKsKaLO9/uploaded-1765879616524-ymxj0zbf.jpghttps://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34yEatLQt6B9A82mZgfqKsKaLO9/uploaded-1765879616524-ymxj0zbf.jpgwebuild-dev.s3.eu-north-1.amazonaws.comhttps://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34yEatLQt6B9A82mZgfqKsKaLO9/uploaded-1765879616524-ymxj0zbf.jpgusershttps://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34yEatLQt6B9A82mZgfqKsKaLO9/uploaded-1765879616524-ymxj0zbf.jpguser_34yEatLQt6B9A82mZgfqKsKaLO9https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34yEatLQt6B9A82mZgfqKsKaLO9/uploaded-1765879616524-ymxj0zbf.jpguploaded-1765962042904-sfbm6x13.jpg",
               imageAlt: "Restaurant ambiance"
             },
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34yEatLQt6B9A82mZgfqKsKaLO9/uploaded-1765962044328-vp6t507y.jpg",
+              imageSrc: "https:https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34yEatLQt6B9A82mZgfqKsKaLO9/uploaded-1765879616524-ymxj0zbf.jpghttps://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34yEatLQt6B9A82mZgfqKsKaLO9/uploaded-1765879616524-ymxj0zbf.jpgwebuild-dev.s3.eu-north-1.amazonaws.comhttps://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34yEatLQt6B9A82mZgfqKsKaLO9/uploaded-1765879616524-ymxj0zbf.jpgusershttps://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34yEatLQt6B9A82mZgfqKsKaLO9/uploaded-1765879616524-ymxj0zbf.jpguser_34yEatLQt6B9A82mZgfqKsKaLO9https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34yEatLQt6B9A82mZgfqKsKaLO9/uploaded-1765879616524-ymxj0zbf.jpguploaded-1765962044328-vp6t507y.jpg",
               imageAlt: "Gourmet plated dish"
             },
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34yEatLQt6B9A82mZgfqKsKaLO9/uploaded-1765962045594-grr9efqd.jpg",
+              imageSrc: "https:https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34yEatLQt6B9A82mZgfqKsKaLO9/uploaded-1765879616524-ymxj0zbf.jpghttps://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34yEatLQt6B9A82mZgfqKsKaLO9/uploaded-1765879616524-ymxj0zbf.jpgwebuild-dev.s3.eu-north-1.amazonaws.comhttps://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34yEatLQt6B9A82mZgfqKsKaLO9/uploaded-1765879616524-ymxj0zbf.jpgusershttps://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34yEatLQt6B9A82mZgfqKsKaLO9/uploaded-1765879616524-ymxj0zbf.jpguser_34yEatLQt6B9A82mZgfqKsKaLO9https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34yEatLQt6B9A82mZgfqKsKaLO9/uploaded-1765879616524-ymxj0zbf.jpguploaded-1765962045594-grr9efqd.jpg",
               imageAlt: "Delicious appetizer"
             },
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34yEatLQt6B9A82mZgfqKsKaLO9/uploaded-1765962047033-9lp5vrk5.jpg",
+              imageSrc: "https:https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34yEatLQt6B9A82mZgfqKsKaLO9/uploaded-1765879616524-ymxj0zbf.jpghttps://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34yEatLQt6B9A82mZgfqKsKaLO9/uploaded-1765879616524-ymxj0zbf.jpgwebuild-dev.s3.eu-north-1.amazonaws.comhttps://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34yEatLQt6B9A82mZgfqKsKaLO9/uploaded-1765879616524-ymxj0zbf.jpgusershttps://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34yEatLQt6B9A82mZgfqKsKaLO9/uploaded-1765879616524-ymxj0zbf.jpguser_34yEatLQt6B9A82mZgfqKsKaLO9https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34yEatLQt6B9A82mZgfqKsKaLO9/uploaded-1765879616524-ymxj0zbf.jpguploaded-1765962047033-9lp5vrk5.jpg",
               imageAlt: "Fine dining presentation"
             }
           ]}
@@ -69,8 +69,8 @@ export default function LandingPage() {
           ]}
           stackedVariant="card"
           imagePosition="right"
-        />
-      </div>
+        https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34yEatLQt6B9A82mZgfqKsKaLO9/uploaded-1765879616524-ymxj0zbf.jpg>
+      <https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34yEatLQt6B9A82mZgfqKsKaLO9/uploaded-1765879616524-ymxj0zbf.jpgdiv>
 
       <div id="about" data-section="about">
         <TextAbout
