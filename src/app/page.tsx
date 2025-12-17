@@ -10,7 +10,8 @@ import TestimonialCardFive from '@/components/sections/testimonial/TestimonialCa
 import ContactSplit from '@/components/sections/contact/ContactSplit';
 import FooterSplit from '@/components/sections/footer/FooterSplit';
 import TeamCardSix from '@/components/sections/team/TeamCardSix';
-import { Phone, Mail, MapPin, Instagram, Users } from "lucide-react";
+import ContactFaq from '@/components/sections/contact/ContactFaq';
+import { Phone, Mail, MapPin, Instagram, Users, Send } from "lucide-react";
 
 export default function LandingPage() {
   return (
@@ -266,6 +267,42 @@ export default function LandingPage() {
           gridVariant="uniform-all-items-equal"
           animationType="slide-up"
           containerStyle="default"
+        />
+      </div>
+
+      <div id="portfolio" data-section="portfolio">
+        <ContactFaq
+          faqs={[
+            {
+              id: "1",
+              title: "What makes your restaurant special?",
+              content: "We combine exceptional culinary expertise with genuine hospitality. Our chefs source premium ingredients, our service team is highly trained, and every detail is carefully considered to create unforgettable dining experiences."
+            },
+            {
+              id: "2",
+              title: "Do you accommodate dietary restrictions?",
+              content: "Absolutely. We work closely with our guests to accommodate vegetarian, vegan, gluten-free, and allergy requirements. Please inform us of your dietary needs when making your reservation."
+            },
+            {
+              id: "3",
+              title: "Can I host a private event?",
+              content: "Yes, we offer private dining experiences for celebrations, corporate events, and special occasions. Contact our events team to discuss your vision and we'll create something memorable."
+            },
+            {
+              id: "4",
+              title: "How far in advance should I book?",
+              content: "We recommend booking at least 2-3 weeks in advance during peak seasons. However, we accommodate walk-ins and last-minute reservations based on availability. Contact us directly for special requests."
+            }
+          ]}
+          ctaTitle="Ready to Join Our Team?"
+          ctaDescription="We're always looking for passionate culinary professionals and hospitality experts. Send us your portfolio and let's create something great together."
+          ctaButton={{
+            text: "Send Your Portfolio",
+            href: "mailto:careers@smmdntsleep.com"
+          }}
+          ctaIcon={Send}
+          useInvertedBackground="noInvert"
+          animationType="slide-up"
         />
       </div>
 
