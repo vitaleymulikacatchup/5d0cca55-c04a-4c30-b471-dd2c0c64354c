@@ -9,7 +9,8 @@ import ProductCardThree from '@/components/sections/product/ProductCardThree';
 import TestimonialCardFive from '@/components/sections/testimonial/TestimonialCardFive';
 import ContactSplit from '@/components/sections/contact/ContactSplit';
 import FooterSplit from '@/components/sections/footer/FooterSplit';
-import { Phone, Mail, MapPin, Instagram } from "lucide-react";
+import TeamCardSix from '@/components/sections/team/TeamCardSix';
+import { Phone, Mail, MapPin, Instagram, Users } from "lucide-react";
 
 export default function LandingPage() {
   return (
@@ -221,6 +222,50 @@ export default function LandingPage() {
               avatarAlt: "Jessica Williams"
             }
           ]}
+        />
+      </div>
+
+      <div id="team" data-section="team">
+        <TeamCardSix
+          title="Meet Our Team"
+          description="The passionate culinary experts and hospitality professionals behind Smm Dont Sleep"
+          tag="Our Team"
+          tagIcon={Users}
+          textboxLayout="default"
+          useInvertedBackground="noInvert"
+          members={[
+            {
+              id: "1",
+              name: "Chef Marco Giovanni",
+              role: "Executive Chef",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34yEatLQt6B9A82mZgfqKsKaLO9/uploaded-1765962042904-sfbm6x13.jpg",
+              imageAlt: "Chef Marco Giovanni"
+            },
+            {
+              id: "2",
+              name: "Elena Rossi",
+              role: "Sommelier & Wine Director",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34yEatLQt6B9A82mZgfqKsKaLO9/uploaded-1765962044328-vp6t507y.jpg",
+              imageAlt: "Elena Rossi"
+            },
+            {
+              id: "3",
+              name: "David Laurent",
+              role: "Front of House Manager",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34yEatLQt6B9A82mZgfqKsKaLO9/uploaded-1765962045594-grr9efqd.jpg",
+              imageAlt: "David Laurent"
+            },
+            {
+              id: "4",
+              name: "Sophie Dubois",
+              role: "Pastry Chef",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34yEatLQt6B9A82mZgfqKsKaLO9/uploaded-1765962047033-9lp5vrk5.jpg",
+              imageAlt: "Sophie Dubois"
+            }
+          ]}
+          gridVariant="uniform-all-items-equal"
+          animationType="slide-up"
+          containerStyle="default"
         />
       </div>
 
