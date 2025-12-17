@@ -240,40 +240,28 @@ export default function LandingPage() {
               name: "Chef Marco Giovanni",
               role: "Executive Chef",
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34yEatLQt6B9A82mZgfqKsKaLO9/uploaded-1765962042904-sfbm6x13.jpg",
-              imageAlt: "Chef Marco Giovanni",
-              socialLinks: [
-                { icon: Linkedin, url: "https://linkedin.com/in/marcogio" }
-              ]
+              imageAlt: "Chef Marco Giovanni"
             },
             {
               id: "2",
               name: "Elena Rossi",
               role: "Sommelier & Wine Director",
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34yEatLQt6B9A82mZgfqKsKaLO9/uploaded-1765962044328-vp6t507y.jpg",
-              imageAlt: "Elena Rossi",
-              socialLinks: [
-                { icon: Linkedin, url: "https://linkedin.com/in/elenrossi" }
-              ]
+              imageAlt: "Elena Rossi"
             },
             {
               id: "3",
               name: "David Laurent",
               role: "Front of House Manager",
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34yEatLQt6B9A82mZgfqKsKaLO9/uploaded-1765962045594-grr9efqd.jpg",
-              imageAlt: "David Laurent",
-              socialLinks: [
-                { icon: Linkedin, url: "https://linkedin.com/in/davidlaurent" }
-              ]
+              imageAlt: "David Laurent"
             },
             {
               id: "4",
               name: "Sophie Dubois",
               role: "Pastry Chef",
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34yEatLQt6B9A82mZgfqKsKaLO9/uploaded-1765962047033-9lp5vrk5.jpg",
-              imageAlt: "Sophie Dubois",
-              socialLinks: [
-                { icon: Linkedin, url: "https://linkedin.com/in/sophiedubois" }
-              ]
+              imageAlt: "Sophie Dubois"
             }
           ]}
           gridVariant="uniform-all-items-equal"
