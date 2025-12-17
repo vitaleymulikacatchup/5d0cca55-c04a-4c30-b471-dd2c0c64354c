@@ -16,7 +16,7 @@ import { Phone, Mail, MapPin, Instagram, Users, Send, Linkedin } from "lucide-re
 export default function LandingPage() {
   return (
     <ThemeProvider
-      defaultButtonVariant="directional-hover"
+      defaultButtonVariant="text-stagger"
       defaultTextAnimation="entrance-slide"
       borderRadius="sharp"
       contentWidth="medium"
@@ -239,7 +239,6 @@ export default function LandingPage() {
               id: "1",
               name: "Chef Marco Giovanni",
               role: "Executive Chef",
-              description: "Award-winning executive chef with 20+ years of culinary expertise and passion for innovative cuisine.",
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34yEatLQt6B9A82mZgfqKsKaLO9/uploaded-1765962042904-sfbm6x13.jpg",
               imageAlt: "Chef Marco Giovanni",
               socialLinks: [
@@ -250,7 +249,6 @@ export default function LandingPage() {
               id: "2",
               name: "Elena Rossi",
               role: "Sommelier & Wine Director",
-              description: "Expert sommelier dedicated to curating the perfect wine pairings for every dish and occasion.",
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34yEatLQt6B9A82mZgfqKsKaLO9/uploaded-1765962044328-vp6t507y.jpg",
               imageAlt: "Elena Rossi",
               socialLinks: [
@@ -261,7 +259,6 @@ export default function LandingPage() {
               id: "3",
               name: "David Laurent",
               role: "Front of House Manager",
-              description: "Hospitality professional committed to creating memorable dining experiences for every guest.",
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34yEatLQt6B9A82mZgfqKsKaLO9/uploaded-1765962045594-grr9efqd.jpg",
               imageAlt: "David Laurent",
               socialLinks: [
@@ -272,7 +269,6 @@ export default function LandingPage() {
               id: "4",
               name: "Sophie Dubois",
               role: "Pastry Chef",
-              description: "Creative pastry chef specializing in exquisite desserts and artisanal baked goods.",
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34yEatLQt6B9A82mZgfqKsKaLO9/uploaded-1765962047033-9lp5vrk5.jpg",
               imageAlt: "Sophie Dubois",
               socialLinks: [
