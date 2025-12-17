@@ -168,8 +168,7 @@ export default function LandingPage() {
               quote: "Smm Dont Sleep delivers exceptional food quality combined with outstanding service. Every detail, from the presentation to the flavors, showcases true culinary expertise. This is fine dining at its finest.",
               tag: "5-Star Review",
               avatarSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34yEatLQt6B9A82mZgfqKsKaLO9/uploaded-1765962057818-a9emej5v.jpg",
-              avatarAlt: "James Anderson",
-              instagramHandle: "@jamesanderson_food"
+              avatarAlt: "James Anderson"
             },
             {
               id: "2",
@@ -179,8 +178,7 @@ export default function LandingPage() {
               quote: "The ambiance is perfect, the food is incredible, and the service staff genuinely cares about your experience. I've visited five times and would visit five hundred more. Highly recommended for special occasions.",
               tag: "5-Star Review",
               avatarSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34yEatLQt6B9A82mZgfqKsKaLO9/uploaded-1765962058998-1ymx7wy3.jpg",
-              avatarAlt: "Sarah Mitchell",
-              instagramHandle: "@sarahmitchell_blog"
+              avatarAlt: "Sarah Mitchell"
             },
             {
               id: "3",
@@ -190,8 +188,7 @@ export default function LandingPage() {
               quote: "They remember my name, my preferences, and make me feel like family. The consistency in food quality and service excellence keeps me coming back week after week.",
               tag: "5-Star Review",
               avatarSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34yEatLQt6B9A82mZgfqKsKaLO9/uploaded-1765962060189-ha2uk6mr.jpg",
-              avatarAlt: "Michael Chen",
-              instagramHandle: "@michaelchen_eats"
+              avatarAlt: "Michael Chen"
             },
             {
               id: "4",
@@ -201,8 +198,7 @@ export default function LandingPage() {
               quote: "We hosted our company's holiday dinner here and everything was flawless. The team accommodated all our special requests, and our guests are still talking about it.",
               tag: "5-Star Review",
               avatarSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34yEatLQt6B9A82mZgfqKsKaLO9/uploaded-1765962061422-l03xlpp1.jpg",
-              avatarAlt: "Emily Rodriguez",
-              instagramHandle: "@emilyrodriguez_events"
+              avatarAlt: "Emily Rodriguez"
             },
             {
               id: "5",
@@ -212,8 +208,7 @@ export default function LandingPage() {
               quote: "Fine dining doesn't always have to be stuffy. Here, it's elegant but warm, sophisticated but welcoming. The wine pairings were spot-on and the desserts were divine.",
               tag: "5-Star Review",
               avatarSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34yEatLQt6B9A82mZgfqKsKaLO9/uploaded-1765962062893-ai2dk47m.jpg",
-              avatarAlt: "David Thompson",
-              instagramHandle: "@davidthompson_travels"
+              avatarAlt: "David Thompson"
             },
             {
               id: "6",
@@ -223,8 +218,7 @@ export default function LandingPage() {
               quote: "From the moment we walked in until we left, everything was perfect. The attention to detail is remarkable. This restaurant truly understands what fine dining means.",
               tag: "5-Star Review",
               avatarSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34yEatLQt6B9A82mZgfqKsKaLO9/uploaded-1765962064005-yetjuq20.jpg",
-              avatarAlt: "Jessica Williams",
-              instagramHandle: "@jessicawilliams_food"
+              avatarAlt: "Jessica Williams"
             }
           ]}
         />
